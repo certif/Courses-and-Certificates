@@ -29,12 +29,12 @@
 29. [HTML5 и CSS3 Essential](https://testprovider.com/ru/Certificate/Search/TP89126591) - itvdn.com
 30. [HTML5 & CSS3 Advanced](https://testprovider.com/ru/Certificate/Search/TP54985789) - itvdn.com
 31. [ECMAScript 6](https://itvdn.com/ru/video/es6) - itvdn.com
-32. [Алгоритми і проекти Scratch](https://edx.prometheus.org.ua/courses/course-v1:KPI+Scratch101+2017_T1/info) - KPI - prometheus.org
-33. ⭐[Навчаймось вчитись: Потужні розумові інструменти для опанування складних предметів](https://edx.prometheus.org.ua/courses/course-v1:Prometheus+LHTL101+2018_T3/info) - LHTL101
-34. [Основи Web UI розробки](https://edx.prometheus.org.ua/courses/course-v1:LITS+114+2017_T4/info)- Lviv IT School
-35. ⭐[Наука повсякденного мислення](https://edx.prometheus.org.ua/courses/UQx/THINK101/2016_T2/info) - UQx: THINK101
-36. [Як знайти роботу своєї мрії](https://edx.prometheus.org.ua/courses/rabotaua/WORK101/2016_T1/info)- rabotaua
-37. [Основи інформаційної безпеки](https://edx.prometheus.org.ua/courses/KPI/IS101/2014_T1/info) - Київський Політехнічний Інститут
-38. ⭐[Економіка для всіх](https://edx.prometheus.org.ua/courses/NaUKMA/103/2015_T1/info) - Києво-Могилянська академія
+32. [Алгоритми і проекти Scratch](https://courses.prometheus.org.ua/courses/course-v1:KPI+Scratch101+2017_T1/about) - KPI - prometheus.org
+33. ⭐[Навчаймось вчитись: Потужні розумові інструменти для опанування складних предметів](https://courses.prometheus.org.ua/courses/course-v1:Prometheus+LHTL101+2018_T3/about) - LHTL101 
+34. [Основи Web UI розробки](https://courses.prometheus.org.ua/courses/course-v1:LITS+114+2017_T4/about)- Lviv IT School
+35. ⭐[Наука повсякденного мислення](https://courses.prometheus.org.ua/courses/UQx/THINK101/2016_T2/about) - UQx: THINK101
+36. [Як знайти роботу своєї мрії](https://courses.prometheus.org.ua/courses/rabotaua/WORK101/2016_T1/about)- rabotaua
+37. [Основи інформаційної безпеки](https://courses.prometheus.org.ua/courses/KPI/IS101/2014_T1/about) - Київський Політехнічний Інститут
+38. ⭐[Економіка для всіх](https://courses.prometheus.org.ua/courses/NaUKMA/103/2015_T1/about) - Києво-Могилянська академія
 39. ⭐[Супер DaVinci Resolve](https://photoshop-master.org/disc250/) - Олег Шарабанов
 40. [Теория монтажа. Базовый Уровень [2019]](https://www.profileschool.ru/category/video/course_theory_editing) - Дмитрий Ларионов
