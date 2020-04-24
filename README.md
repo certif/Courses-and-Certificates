@@ -38,3 +38,9 @@
 38. ⭐[Економіка для всіх](https://courses.prometheus.org.ua/courses/NaUKMA/103/2015_T1/about) - Києво-Могилянська академія
 39. ⭐[Супер DaVinci Resolve](https://photoshop-master.org/disc250/) - Олег Шарабанов
 40. [Теория монтажа. Базовый Уровень [2019]](https://www.profileschool.ru/category/video/course_theory_editing) - Дмитрий Ларионов
+41. [Как работает интернет](https://stepik.org/course/14736) - stepik.org
+42. [Learn How to Code](https://www.codecademy.com/learn/learn-how-to-code) - codecademy.com
+43. [Learn CSS](https://www.codecademy.com/learn/learn-css) - codecademy.com
+44. [Non-Technical Life Skills](https://www.codecademy.com/learn/nontech-life-skills) - codecademy.com
+45. [Introduction to HTML](https://www.codecademy.com/learn/learn-html) - codecademy.com
+46. [Learn Java](https://www.codecademy.com/learn/learn-java) - codecademy.com
