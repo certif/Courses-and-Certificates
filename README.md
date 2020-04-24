@@ -44,3 +44,7 @@
 44. [Non-Technical Life Skills](https://www.codecademy.com/learn/nontech-life-skills) - codecademy.com
 45. [Introduction to HTML](https://www.codecademy.com/learn/learn-html) - codecademy.com
 46. [Learn Java](https://www.codecademy.com/learn/learn-java) - codecademy.com
+
+
+
+⭐- my recommendations
