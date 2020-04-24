@@ -1,6 +1,6 @@
 1. [Программирование на Java](https://www.intuit.ru/verifydiplomas/100812594) - intuit.ru
 2. [Введение в теорию программирования. Функциональный подход](https://www.intuit.ru/verifydiplomas/100765479) - университет «МИФИ» - intuit.ru
-3. [Язык программирования Java и среда NetBeans](https://www.intuit.ru/verifydiplomas/100814231)
+3. [Язык программирования Java и среда NetBeans](https://www.intuit.ru/verifydiplomas/100814231) - intuit.ru
 4. [Введение в разработку приложений для смартфонов на ОС Android](https://www.intuit.ru/verifydiplomas/100751565) - intuit.ru
 5. [Java: основы](https://www.intuit.ru/verifydiplomas/100810005) - intuit.ru
 6. [JavaScript for Beginners](https://stepik.org/cert/219826) - stepik.org
@@ -12,7 +12,7 @@
 12. ⭐[Введение в Linux](https://stepik.org/cert/198869) - [Bioinformatics Institute](https://stepik.org/users/651763) - stepik.org
 13. [JavaScript для начинающих](https://stepik.org/cert/213779) - stepik.org
 14. [ОСНОВЫ Html & CSS](https://stepik.org/cert/198650) - stepik.org
-15. [Курс молодого бойца в IT](https://stepik.org/cert/237007) - stepik.org
+15. [Курс молодого бойца в IT](https://stepik.org/cert/237007) - СПбГЭТУ «ЛЭТИ» - stepik.org
 16. ⭐[Основы клинического использования антибиотиков](https://stepik.org/cert/214982) - stepik.org
 17. [Сравнительное Программирование (Delphi - C++ - Java - Prolog)](https://stepik.org/course/16657) - stepik.org
 18. [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/cert/222674) - [ITC](https://stepik.org/users/24073100) - stepik.org
@@ -21,7 +21,7 @@
 21. [Создание сайтов на языке HTML](https://stepik.org/course/51493) - stepik.org
 22. [Гибкое мышление](https://stepik.org/course/17830) - [БудуГуру](https://stepik.org/users/57310195) - stepik.org
 23. [Компьютерная графика: основы](https://stepik.org/cert/327601)  - stepik.org
-24. [Основы поисковой оптимизации (SEO). Факторы ранжирования сайтов](https://stepik.org/cert/328267) - stepic.org
+24. [Основы поисковой оптимизации (SEO). Факторы ранжирования сайтов](https://stepik.org/cert/328267) - СГУ им. Питирима Сорокина - stepic.org
 25. [HTML5 и CSS3 Starter](https://testprovider.com/ru/Certificate/Search/TP57587382) - itvdn.com
 26. [HTML & CSS](https://testprovider.com/ru/Certificate/Search/TP84053271) - itvdn.com
 27. [JavaScript Essential](https://testprovider.com/ru/Certificate/Search/TP15882801) - itvdn.com
