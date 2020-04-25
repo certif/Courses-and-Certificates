@@ -44,7 +44,10 @@
 44. [Non-Technical Life Skills](https://www.codecademy.com/learn/nontech-life-skills) - codecademy.com
 45. [Introduction to HTML](https://www.codecademy.com/learn/learn-html) - codecademy.com
 46. [Learn Java](https://www.codecademy.com/learn/learn-java) - codecademy.com
-
+47. [Инженерия будущего](https://stepik.org/course/2213) - [Томский политех](https://stepik.org/org/tpu) - stepik.org
+48. [Web-технологии](https://stepik.org/cert/218377) - [Mail.ru Group](https://stepik.org/users/1382921) - stepik.org
+49. [Первая помощь при остановке сердца (базовая реанимация)](https://stepik.org/course/13222) - [Крымский симуляционный центр экстренной медицины](https://stepik.org/users/49898385) - stepic.org
+50. []()
 
 
 ⭐- my recommendations
