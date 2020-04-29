@@ -46,8 +46,14 @@
 46. [Learn Java](https://www.codecademy.com/learn/learn-java) - codecademy.com
 47. [Инженерия будущего](https://stepik.org/course/2213) - [Томский политех](https://stepik.org/org/tpu) - stepik.org
 48. [Web-технологии](https://stepik.org/cert/218377) - [Mail.ru Group](https://stepik.org/users/1382921) - stepik.org
-49. [Первая помощь при остановке сердца (базовая реанимация)](https://stepik.org/course/13222) - [Крымский симуляционный центр экстренной медицины](https://stepik.org/users/49898385) - stepic.org
-50. []()
+49. ⭐[Первая помощь при остановке сердца (базовая реанимация)](https://stepik.org/course/13222) - [Крымский симуляционный центр экстренной медицины](https://stepik.org/users/49898385) - stepic.org
+50. [Введение в программирование (JavaScript ES6)](https://stepik.org/course/13929) - Hexlet
+51. [Программное обеспечение компьютерных сетей](https://stepik.org/cert/330867) - stepic.org
+52. [Основы теории информации](https://stepik.org/course/11488) - [Юлия Леонидовна] - stepic.org
+53. [JIRA: ведение задач на электронных досках](https://stepik.org/cert/331163) - stepic.org
+54. [Финансовая грамотность](https://stepik.org/cert/331653) - stepic.org
+55. ⭐[Томография: увидеть невидимое](https://stepik.org/cert/334155) -  [Томский политех](https://stepik.org/org/tpu) - stepic.org
+
 
 
 ⭐- my recommendations
