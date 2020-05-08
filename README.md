@@ -53,6 +53,11 @@
 53. [JIRA: ведение задач на электронных досках](https://stepik.org/cert/331163) - stepic.org
 54. [Финансовая грамотность](https://stepik.org/cert/331653) - stepic.org
 55. ⭐[Томография: увидеть невидимое](https://stepik.org/cert/334155) -  [Томский политех](https://stepik.org/org/tpu) - stepic.org
+56. [Сам себе логист. Развиваем предпринимательское мышление](https://stepik.org/cert/335003) - [Томский политех](https://stepik.org/org/tpu) - stepic.org
+57. [Введение в архитектуру ЭВМ. Элементы операционных систем](https://stepik.org/cert/336129) - [CS центр](https://stepik.org/org/compscicenter) - stepic.org
+58. [Электробезопасность](https://stepik.org/course/6523)  - stepic.org
+59. [Информация о лекарственных средствах для пациента](https://stepik.org/cert/339242) - [Sechenov University (MSMU)](https://stepik.org/org/1msmu)
+60. [Риторика](https://stepik.org/cert/341244) - [БФУ им. И. Канта](https://stepik.org/org/bfu)
 
 
 
