@@ -46,7 +46,7 @@
 46. [Learn Java](https://www.codecademy.com/learn/learn-java) - codecademy.com
 47. [Инженерия будущего](https://stepik.org/course/2213) - [Томский политех](https://stepik.org/org/tpu) - stepik.org
 48. [Web-технологии](https://stepik.org/cert/218377) - [Mail.ru Group](https://stepik.org/users/1382921) - stepik.org
-49. ⭐[Первая помощь при остановке сердца (базовая реанимация)](https://stepik.org/course/13222) - [Крымский симуляционный центр экстренной медицины](https://stepik.org/users/49898385) - stepic.org
+49. ⭐[Первая помощь при остановке сердца (базовая реанимация)](https://stepik.org/cert/329126) - [Крымский симуляционный центр экстренной медицины](https://stepik.org/users/49898385) - stepic.org
 50. [Введение в программирование (JavaScript ES6)](https://stepik.org/course/13929) - Hexlet
 51. [Программное обеспечение компьютерных сетей](https://stepik.org/cert/330867) - stepic.org
 52. [Основы теории информации](https://stepik.org/course/11488) - [Юлия Леонидовна] - stepic.org
@@ -58,7 +58,8 @@
 58. [Электробезопасность](https://stepik.org/course/6523)  - stepic.org
 59. [Информация о лекарственных средствах для пациента](https://stepik.org/cert/339242) - [Sechenov University (MSMU)](https://stepik.org/org/1msmu)
 60. [Риторика](https://stepik.org/cert/341244) - [БФУ им. И. Канта](https://stepik.org/org/bfu)
-
+61. ⭐[Практика осознанности](https://stepik.org/course/6839) - [Альфа-Опыт](https://stepik.org/org/alfabank)
+62. [Тестирование ПО: подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/345072) - stepic.org
 
 
 ⭐- my recommendations
