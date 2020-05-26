@@ -60,6 +60,12 @@
 60. [Риторика](https://stepik.org/cert/341244) - [БФУ им. И. Канта](https://stepik.org/org/bfu)
 61. ⭐[Практика осознанности](https://stepik.org/course/6839) - [Альфа-Опыт](https://stepik.org/org/alfabank)
 62. [Тестирование ПО: подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/345072) - stepic.org
-
+63. [Как учиться эффективно. Цикл Колба](https://stepik.org/course/31891) - [Альфа-Опыт]
+64. [Как фотографировать изделия handmade, если ты не фотограф](https://www.udemy.com/course/how_to_photo_handmade/) - udemy.com
+65. [Съемка на смартфон 2018](https://liveclasses.ru/course/photo/shooting_smartphone/) - liveclasses.ru 
+66. [Съёмка на смартфон 2016](https://www.profileschool.ru/category/photography/course_smartphone_photography) - profileschool.ru
+67. [Мобильный режиссер](https://tvoiekino.ru/courses/mobilnyj-rezhisser-2-0/) - tvoiekino.ru
+68. [Интенсивное погружение в JavaScript](https://www.udemy.com/course/intensive-js/) - udemy.com
+69. [JavaScript & LeetCode | The Ultimate Interview Bootcamp](https://www.udemy.com/course/ultimate-javascript-leetcode-interview-bootcamp/) - udemy.com
 
 ⭐- my recommendations
