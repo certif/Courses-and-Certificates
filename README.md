@@ -67,5 +67,6 @@
 67. [Мобильный режиссер](https://tvoiekino.ru/courses/mobilnyj-rezhisser-2-0/) - tvoiekino.ru
 68. [Интенсивное погружение в JavaScript](https://www.udemy.com/course/intensive-js/) - udemy.com
 69. [JavaScript & LeetCode | The Ultimate Interview Bootcamp](https://www.udemy.com/course/ultimate-javascript-leetcode-interview-bootcamp/) - udemy.com
+70. [ADVANCED FRONTEND WEB DEVELOPER](https://codifun.com/get-certificate/13/eyJpdiI6InJocmZoWEdkODBxNHBkdytzbUR0V3c9PSIsInZhbHVlIjoiOEtCQ3dLUVJ2V01ncG12N0NwY2p4UT09IiwibWFjIjoiNmI1OTQ1MjNjOGNiMWFhOWMzODIzMTA5ZDY0YzljM2Y3MmU0YTA3OWQxOGM2NDM0ZDI0N2M1NDQzNGRhNTVhZiJ9) - codifun.com
 
 ⭐- my recommendations
