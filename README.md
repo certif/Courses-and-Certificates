@@ -40,10 +40,10 @@
 40. [Теория монтажа. Базовый Уровень [2019]](https://www.profileschool.ru/category/video/course_theory_editing) - Дмитрий Ларионов
 41. [Как работает интернет](https://stepik.org/course/14736) - stepik.org
 42. [Learn How to Code](https://www.codecademy.com/learn/learn-how-to-code) - codecademy.com
-43. [Learn CSS](https://www.codecademy.com/learn/learn-css) - codecademy.com
+43. [Learn CSS](https://www.codecademy.com/profiles/certif/certificates/9a5bb1fc45b4281af1fffec93b0aaf05) - codecademy.com
 44. [Non-Technical Life Skills](https://www.codecademy.com/learn/nontech-life-skills) - codecademy.com
-45. [Introduction to HTML](https://www.codecademy.com/learn/learn-html) - codecademy.com
-46. [Learn Java](https://www.codecademy.com/learn/learn-java) - codecademy.com
+45. [Introduction to HTML](https://www.codecademy.com/profiles/certif/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7) - codecademy.com
+46. [Learn Java](https://www.codecademy.com/profiles/certif/certificates/d3f89367b558583e361640f778191345) - codecademy.com
 47. [Инженерия будущего](https://stepik.org/course/2213) - [Томский политех](https://stepik.org/org/tpu) - stepik.org
 48. [Web-технологии](https://stepik.org/cert/218377) - [Mail.ru Group](https://stepik.org/users/1382921) - stepik.org
 49. ⭐[Первая помощь при остановке сердца (базовая реанимация)](https://stepik.org/cert/329126) - [Крымский симуляционный центр экстренной медицины](https://stepik.org/users/49898385) - stepic.org
