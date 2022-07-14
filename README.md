@@ -68,8 +68,10 @@
 68. [Интенсивное погружение в JavaScript](https://www.udemy.com/course/intensive-js/) - udemy.com
 69. [JavaScript & LeetCode | The Ultimate Interview Bootcamp](https://www.udemy.com/course/ultimate-javascript-leetcode-interview-bootcamp/) - udemy.com
 70. [ADVANCED FRONTEND WEB DEVELOPER](https://codifun.com/get-certificate/13/eyJpdiI6InJocmZoWEdkODBxNHBkdytzbUR0V3c9PSIsInZhbHVlIjoiOEtCQ3dLUVJ2V01ncG12N0NwY2p4UT09IiwibWFjIjoiNmI1OTQ1MjNjOGNiMWFhOWMzODIzMTA5ZDY0YzljM2Y3MmU0YTA3OWQxOGM2NDM0ZDI0N2M1NDQzNGRhNTVhZiJ9) - codifun.com
-
 71. [Web development intensive](https://geekbrains.ru/certificates/615724.en) - GeekBrains.ru
 72. [Git from A to Z](https://geekbrains.ru/certificates/1089723.en) - GeekBrains.ru
+73. [Основы сетевого администрирования](https://stepik.org/59837) - stepic.org
+
+
 
 ⭐- my recommendations
