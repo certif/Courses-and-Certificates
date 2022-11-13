@@ -72,6 +72,7 @@
 72. [Git from A to Z](https://geekbrains.ru/certificates/1089723.en) - GeekBrains.ru
 73. [Основы сетевого администрирования](https://stepik.org/59837) - stepic.org
 74. ⭐[Основы технической поддержки](https://www.coursera.org/account/accomplishments/certificate/WKZZDXUNCD2F) - coursera.org
+75. ⭐[Основы компьютерных сетей](https://www.coursera.org/account/accomplishments/certificate/2VPM3U6QFNC2) - coursera.org
 
 
 
