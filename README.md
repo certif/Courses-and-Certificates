@@ -73,6 +73,7 @@
 73. [Основы сетевого администрирования](https://stepik.org/59837) - stepic.org
 74. ⭐[Основы технической поддержки](https://www.coursera.org/account/accomplishments/certificate/WKZZDXUNCD2F) - coursera.org
 75. ⭐[Основы компьютерных сетей](https://www.coursera.org/account/accomplishments/certificate/2VPM3U6QFNC2) - coursera.org
+76. ⭐[Операционные системы и вы: как стать опытным пользователем](https://www.coursera.org/account/accomplishments/certificate/UTWFBRHPVX5W) - coursera.org
 
 
 
