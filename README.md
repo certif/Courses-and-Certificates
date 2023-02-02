@@ -74,6 +74,9 @@
 74. ⭐[Основы технической поддержки](https://www.coursera.org/account/accomplishments/certificate/WKZZDXUNCD2F) - coursera.org
 75. ⭐[Основы компьютерных сетей](https://www.coursera.org/account/accomplishments/certificate/2VPM3U6QFNC2) - coursera.org
 76. ⭐[Операционные системы и вы: как стать опытным пользователем](https://www.coursera.org/account/accomplishments/certificate/UTWFBRHPVX5W) - coursera.org
+77. ⭐[Системное администрирование и службы IT-инфраструктуры](https://www.coursera.org/account/accomplishments/certificate/W8A7ARSA6J8S) - coursera.org
+78. ⭐[Безопасность в IT: искусство борьбы с темными силами](https://www.coursera.org/account/accomplishments/certificate/RLSKB3PPLAYG) - coursera.org
+79. ⭐[Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QD97XLS8Y4RE) - coursera.org
 
 
 
