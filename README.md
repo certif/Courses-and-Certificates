@@ -77,7 +77,15 @@
 77. ⭐[Системное администрирование и службы IT-инфраструктуры](https://www.coursera.org/account/accomplishments/certificate/W8A7ARSA6J8S) - coursera.org
 78. ⭐[Безопасность в IT: искусство борьбы с темными силами](https://www.coursera.org/account/accomplishments/certificate/RLSKB3PPLAYG) - coursera.org
 79. ⭐[Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QD97XLS8Y4RE) - coursera.org
-
-
+80. [Дивись під ноги! Дивись, куди ідеш!](https://courses.zrozumilo.in.ua/certificates/dc68fb8ede91424da2356059fa97635d)
+81. [РХБЯ-загрози: від А до Я](https://courses.zrozumilo.in.ua/certificates/8d5fbd1e7d8a46e4879dd099ce77969f)
+82. [Психологічна стійкість для громадських організацій під час війни](https://courses.zrozumilo.in.ua/certificates/aa9e534d92714fe6bdf2f1f59659b7a6)
+83. [Цивільна безпека та підготовка до надзвичайних ситуацій](https://courses.zrozumilo.in.ua/certificates/82988b7c36f54b519b6e3b5a5d193ae2)
+84. [Як вивчити іноземну мову?](https://www.thecampster.com/ua/pdf/cert_en-459329) - thecampster.com
+85. [Microsoft Excel — базовий і середній рівень](https://www.thecampster.com/ua/pdf/cert_en-459526) - thecampster.com
+86. []()
+87. []()
+88. []()
+89. []()
 
 ⭐- my recommendations
