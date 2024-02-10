@@ -83,9 +83,22 @@
 83. [Цивільна безпека та підготовка до надзвичайних ситуацій](https://courses.zrozumilo.in.ua/certificates/82988b7c36f54b519b6e3b5a5d193ae2)
 84. [Як вивчити іноземну мову?](https://www.thecampster.com/ua/pdf/cert_en-459329) - thecampster.com
 85. [Microsoft Excel — базовий і середній рівень](https://www.thecampster.com/ua/pdf/cert_en-459526) - thecampster.com
-86. []()
-87. []()
-88. []()
-89. []()
+86. [QA-тестувальник](https://osvita.diia.gov.ua/uploads/certificate/20230712/kDINwEHYCdJYeMGdyWwZ_W54UPziFM65-1689153513.pdf) - Дія.Освіта
+87. [Відкриті дані для державних службовців](https://osvita.diia.gov.ua/uploads/certificate/20230713/NuHYsHGntGulNE3t-ouw9fYmD99P0jNO-1689233973.pdf) - Дія.Освіта
+88. [Штучний інтелект](https://osvita.diia.gov.ua/uploads/certificate/20230714/rfpspkb1f4jAeAebmjXAM04X_Y_cyNDD-1689323173.pdf) - Дія.Освіта
+89. [Організація послуг психічного здоров’я та психосоціальної підтримки](https://hromada.academy/certificates/38688473) - hromada.academy
+90. [Кризові комунікації](https://osvita.diia.gov.ua/uploads/certificate/20230807/r_EfwUaWHzURsk5O9hamTtnaPYOWwSkA-1691390893.pdf) - Дія.Освіта
+91. [Основи кібергігієни](https://osvita.diia.gov.ua/uploads/certificate/20230811/QVY_nH991gR77X9keD9Jevhp3zwMEIJ6-1691754300.pdf?v=1707588356) - Дія.Освіта
+92. [Антикорупція](https://osvita.diia.gov.ua/uploads/certificate/20231026/3xVXFlZz5bUwAB7f1E_IE_2vouifxVpa-1698315906.pdf) - Дія.Освіта
+93. [Криптонрамотність та блокчейн](https://osvita.diia.gov.ua/uploads/certificate/20231026/S3hqWtpQXk_CWAjuSOe-6uUy4l2DAIUp-1698323018.pdf) - Дія.Освіта
+94. ⭐[Introduction to Cybersecurity](https://www.credly.com/badges/3fa6ed69-e940-42a6-a29f-d3822d59f374/public_url) - Skills for All
+with Cisco
+95. []()
+96. []()
+97. []()
+98. []()
+99. []()
+100. []()
+
 
 ⭐- my recommendations
