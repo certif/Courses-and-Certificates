@@ -91,9 +91,8 @@
 91. [Основи кібергігієни](https://osvita.diia.gov.ua/uploads/certificate/20230811/QVY_nH991gR77X9keD9Jevhp3zwMEIJ6-1691754300.pdf?v=1707588356) - Дія.Освіта
 92. [Антикорупція](https://osvita.diia.gov.ua/uploads/certificate/20231026/3xVXFlZz5bUwAB7f1E_IE_2vouifxVpa-1698315906.pdf) - Дія.Освіта
 93. [Криптонрамотність та блокчейн](https://osvita.diia.gov.ua/uploads/certificate/20231026/S3hqWtpQXk_CWAjuSOe-6uUy4l2DAIUp-1698323018.pdf) - Дія.Освіта
-94. ⭐[Introduction to Cybersecurity](https://www.credly.com/badges/3fa6ed69-e940-42a6-a29f-d3822d59f374/public_url) - Skills for All
-with Cisco
-95. []()
+94. ⭐[Introduction to Cybersecurity](https://www.credly.com/badges/3fa6ed69-e940-42a6-a29f-d3822d59f374/public_url) - Skills for All with Cisco
+95. [Python Essentials 1](https://www.credly.com/earner/earned/share/14bb6553-84ed-43b5-9b9e-766e18bd20b3) - Skills for All with Cisco
 96. []()
 97. []()
 98. []()
