@@ -93,8 +93,8 @@
 93. [Криптонрамотність та блокчейн](https://osvita.diia.gov.ua/uploads/certificate/20231026/S3hqWtpQXk_CWAjuSOe-6uUy4l2DAIUp-1698323018.pdf) - Дія.Освіта
 94. ⭐[Introduction to Cybersecurity](https://www.credly.com/badges/3fa6ed69-e940-42a6-a29f-d3822d59f374/public_url) - Skills for All with Cisco
 95. [Python Essentials 1](https://www.credly.com/earner/earned/share/14bb6553-84ed-43b5-9b9e-766e18bd20b3) - Skills for All with Cisco
-96. []()
-97. []()
+96. ⭐[Google Cybersecurity](https://coursera.org/share/120e29d31d7611df05888f6fd6a97235) - coursera.org
+97. [Аналітик із кібербезпеки](https://osvita.diia.gov.ua/share/kkxKc56bduRfaw2_2MYRIkOtcv9vfAOf) - Дія.Освіта
 98. []()
 99. []()
 100. []()
