@@ -95,9 +95,14 @@
 95. [Python Essentials 1](https://www.credly.com/earner/earned/share/14bb6553-84ed-43b5-9b9e-766e18bd20b3) - Skills for All with Cisco
 96. ⭐[Google Cybersecurity](https://coursera.org/share/120e29d31d7611df05888f6fd6a97235) - coursera.org
 97. [Аналітик із кібербезпеки](https://osvita.diia.gov.ua/share/kkxKc56bduRfaw2_2MYRIkOtcv9vfAOf) - Дія.Освіта
-98. []()
-99. []()
-100. []()
+98. [Network Technician Career Path](https://www.credly.com/badges/161b7388-43e0-44c0-8ee6-3b3c54596c0c/public_url) - Cisco
+99. ⭐[Junior Cybersecurity Analyst Career Path](https://www.credly.com/earner/earned/badge/1d0fbc12-77f2-4c8e-acf6-1852f11a566d/public_url) - Cisco
+100. ⭐[OSINT — розвідка з відкритих джерел та інформаційна безпека](https://certs.prometheus.org.ua/downloads/757365b24f7d41398a1ae06ba3b7304e/Certificate.pdf) - prometheus.org.ua
+101. []()
+102. []()
+103. []()
+104. []()
+105. []()
 
 
 ⭐- my recommendations
