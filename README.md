@@ -90,7 +90,7 @@
 90. [Кризові комунікації](https://osvita.diia.gov.ua/uploads/certificate/20230807/r_EfwUaWHzURsk5O9hamTtnaPYOWwSkA-1691390893.pdf) - Дія.Освіта
 91. [Основи кібергігієни](https://osvita.diia.gov.ua/uploads/certificate/20230811/QVY_nH991gR77X9keD9Jevhp3zwMEIJ6-1691754300.pdf?v=1707588356) - Дія.Освіта
 92. [Антикорупція](https://osvita.diia.gov.ua/uploads/certificate/20231026/3xVXFlZz5bUwAB7f1E_IE_2vouifxVpa-1698315906.pdf) - Дія.Освіта
-93. [Криптонрамотність та блокчейн](https://osvita.diia.gov.ua/uploads/certificate/20231026/S3hqWtpQXk_CWAjuSOe-6uUy4l2DAIUp-1698323018.pdf) - Дія.Освіта
+93. [Криптограмотність та блокчейн](https://osvita.diia.gov.ua/uploads/certificate/20231026/S3hqWtpQXk_CWAjuSOe-6uUy4l2DAIUp-1698323018.pdf) - Дія.Освіта
 94. ⭐[Introduction to Cybersecurity](https://www.credly.com/badges/3fa6ed69-e940-42a6-a29f-d3822d59f374/public_url) - Skills for All with Cisco
 95. [Python Essentials 1](https://www.credly.com/earner/earned/share/14bb6553-84ed-43b5-9b9e-766e18bd20b3) - Skills for All with Cisco
 96. ⭐[Google Cybersecurity](https://coursera.org/share/120e29d31d7611df05888f6fd6a97235) - coursera.org
@@ -98,7 +98,7 @@
 98. [Network Technician Career Path](https://www.credly.com/badges/161b7388-43e0-44c0-8ee6-3b3c54596c0c/public_url) - Cisco
 99. ⭐[Junior Cybersecurity Analyst Career Path](https://www.credly.com/earner/earned/badge/1d0fbc12-77f2-4c8e-acf6-1852f11a566d/public_url) - Cisco
 100. ⭐[OSINT — розвідка з відкритих джерел та інформаційна безпека](https://certs.prometheus.org.ua/downloads/757365b24f7d41398a1ae06ba3b7304e/Certificate.pdf) - prometheus.org.ua
-101. []()
+101. ⭐[Advent of Cyber 2024](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QAY9BZJKOY.pdf) - tryhackme.com
 102. []()
 103. []()
 104. []()
