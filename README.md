@@ -1,8 +1,27 @@
-1. [Программирование на Java](https://www.intuit.ru/verifydiplomas/100812594) - intuit.ru
-2. [Введение в теорию программирования. Функциональный подход](https://www.intuit.ru/verifydiplomas/100765479) - университет «МИФИ» - intuit.ru
-3. [Язык программирования Java и среда NetBeans](https://www.intuit.ru/verifydiplomas/100814231) - intuit.ru
-4. [Введение в разработку приложений для смартфонов на ОС Android](https://www.intuit.ru/verifydiplomas/100751565) - intuit.ru
-5. [Java: основы](https://www.intuit.ru/verifydiplomas/100810005) - intuit.ru
+## My degree:
+1. **College of Technology and Design**
+    - *AS in Electrical Engineering*
+2. **Academician Yuriy Bugay International Scientific and Technical University**
+    - *BS in Software Engineering*
+3. **Dnipro University of Technology**
+    - *MS in Cybersecurity and Information Protection*
+
+## My Specializations:
+1. **IT Support**
+    [Google IT Support Professional Certificate](https://coursera.org/share/b73ddf99e95e392ecbaa5fd08bd5b0f2) - Google Career Certificates
+2. **Cybersecurity**
+    [Google Cybersecurity](https://coursera.org/share/120e29d31d7611df05888f6fd6a97235) - Google Career Certificates
+3. **Network Technician**
+    [Network Technician Career Path](https://www.credly.com/badges/161b7388-43e0-44c0-8ee6-3b3c54596c0c/public_url) - Issued by Cisco
+4. **Junior Cybersecurity Analyst**
+    [Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/1d0fbc12-77f2-4c8e-acf6-1852f11a566d/public_url) - Issued by Cisco
+
+## My Courses:
+1. [Программирование на Java](https://www.intuit.ru/verifydiplomas/100812594) - Открытый Университет «ИНТУИТ»
+2. [Введение в теорию программирования. Функциональный подход](https://www.intuit.ru/verifydiplomas/100765479) - Открытый Университет «ИНТУИТ»
+3. [Язык программирования Java и среда NetBeans](https://www.intuit.ru/verifydiplomas/100814231) - Открытый Университет «ИНТУИТ»
+4. [Введение в разработку приложений для смартфонов на ОС Android](https://www.intuit.ru/verifydiplomas/100751565) - Открытый Университет «ИНТУИТ»
+5. [Java: основы](https://www.intuit.ru/verifydiplomas/100810005) - Открытый Университет «ИНТУИТ»
 6. [JavaScript for Beginners](https://stepik.org/cert/219826) - stepik.org
 7. [Теория аргументации](https://stepik.org/cert/211988) - БФУ им. И. Канта - stepik.org
 8. [JavaScript. Introduction for beginners](https://stepik.org/cert/219826) - stepik.org
@@ -17,7 +36,7 @@
 17. [Сравнительное Программирование (Delphi - C++ - Java - Prolog)](https://stepik.org/course/16657) - stepik.org
 18. [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/cert/222674) - [ITC](https://stepik.org/users/24073100) - stepik.org
 19. [Основы Git](https://stepik.org/cert/221371) - stepik.org
-20. [Безопасность в интернете](https://stepik.org/cert/195511)- [Академия Яндекса](https://stepik.org/users/1762074) - stepik.org
+20. [Безопасность в интернете](https://stepik.org/cert/195511) - [Академия Яндекса](https://stepik.org/users/1762074) - stepik.org
 21. [Создание сайтов на языке HTML](https://stepik.org/course/51493) - stepik.org
 22. [Гибкое мышление](https://stepik.org/course/17830) - [БудуГуру](https://stepik.org/users/57310195) - stepik.org
 23. [Компьютерная графика: основы](https://stepik.org/cert/327601)  - stepik.org
@@ -76,7 +95,7 @@
 76. ⭐[Операционные системы и вы: как стать опытным пользователем](https://www.coursera.org/account/accomplishments/certificate/UTWFBRHPVX5W) - coursera.org
 77. ⭐[Системное администрирование и службы IT-инфраструктуры](https://www.coursera.org/account/accomplishments/certificate/W8A7ARSA6J8S) - coursera.org
 78. ⭐[Безопасность в IT: искусство борьбы с темными силами](https://www.coursera.org/account/accomplishments/certificate/RLSKB3PPLAYG) - coursera.org
-79. ⭐[Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QD97XLS8Y4RE) - coursera.org
+79. [Кредитна історія: що це і чому вона важлива?](https://osvita.diia.gov.ua/share/q1uG8DmBWOPN-a_eXLD0ilBJD78Lr4oZ) - Дія.Освіта
 80. [Дивись під ноги! Дивись, куди ідеш!](https://courses.zrozumilo.in.ua/certificates/dc68fb8ede91424da2356059fa97635d)
 81. [РХБЯ-загрози: від А до Я](https://courses.zrozumilo.in.ua/certificates/8d5fbd1e7d8a46e4879dd099ce77969f)
 82. [Психологічна стійкість для громадських організацій під час війни](https://courses.zrozumilo.in.ua/certificates/aa9e534d92714fe6bdf2f1f59659b7a6)
@@ -93,16 +112,20 @@
 93. [Криптограмотність та блокчейн](https://osvita.diia.gov.ua/uploads/certificate/20231026/S3hqWtpQXk_CWAjuSOe-6uUy4l2DAIUp-1698323018.pdf) - Дія.Освіта
 94. ⭐[Introduction to Cybersecurity](https://www.credly.com/badges/3fa6ed69-e940-42a6-a29f-d3822d59f374/public_url) - Skills for All with Cisco
 95. [Python Essentials 1](https://www.credly.com/earner/earned/share/14bb6553-84ed-43b5-9b9e-766e18bd20b3) - Skills for All with Cisco
-96. ⭐[Google Cybersecurity](https://coursera.org/share/120e29d31d7611df05888f6fd6a97235) - coursera.org
+96. [Put It to Work: Prepare for Cybersecurity Jobs](https://coursera.org/share/b60c23b2bb97dc7f4645697bd6cd814e) - Google Career Certificates
 97. [Аналітик із кібербезпеки](https://osvita.diia.gov.ua/share/kkxKc56bduRfaw2_2MYRIkOtcv9vfAOf) - Дія.Освіта
-98. [Network Technician Career Path](https://www.credly.com/badges/161b7388-43e0-44c0-8ee6-3b3c54596c0c/public_url) - Cisco
-99. ⭐[Junior Cybersecurity Analyst Career Path](https://www.credly.com/earner/earned/badge/1d0fbc12-77f2-4c8e-acf6-1852f11a566d/public_url) - Cisco
+98. [Tools of the Trade: Linux and SQL](https://coursera.org/share/13057f2c879e0ecc8b29b0b5b80146a4) - Google Career Certificates
+99. [Assets, Threats, and Vulnerabilities](https://coursera.org/share/7bb7ced1ad497a7552f13a30e078a874) - Google Career Certificates
 100. ⭐[OSINT — розвідка з відкритих джерел та інформаційна безпека](https://certs.prometheus.org.ua/downloads/757365b24f7d41398a1ae06ba3b7304e/Certificate.pdf) - prometheus.org.ua
 101. ⭐[Advent of Cyber 2024](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QAY9BZJKOY.pdf) - tryhackme.com
-102. []()
-103. []()
-104. []()
-105. []()
+102. [Інформаційна безпека](https://certs.prometheus.org.ua/downloads/9be6f76de093403ca590ffe2e8004324/Certificate.pdf) - 
+103. [Getting Started in Google Analytics](https://www.coursera.org/account/accomplishments/verify/U5GHQUJJQIYZ) - Coursera Project Network
+104. [Connect and Protect: Networks and Network Security](https://coursera.org/share/e26fec3856703d3abe27fbf480b64daa) - Google Career Certificates
+105. [Automate Cybersecurity Tasks with Python](https://coursera.org/share/c51b18496f2cf077ade922d4d33a605e) - Google Career Certificates
+106. [Play It Safe: Manage Security Risks](https://coursera.org/share/757aa1dcb9c5a74771056de28e66cc8a) - Google Career Certificates
+107. [Foundations of Cybersecurity](https://coursera.org/share/64becb1d0095857b2101e3b9a1b8e38d) - Google Career Certificates
+108. [Sound the Alarm: Detection and Response](https://coursera.org/share/270fe01c58a386129e1fce25c781f1af) - Google Career Certificates
+
 
 
 ⭐- my recommendations
